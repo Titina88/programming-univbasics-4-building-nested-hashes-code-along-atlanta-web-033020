@@ -26,4 +26,3 @@ def bonus
      [:capulet][:heroine][:satus] = "dead
 end
  epic_tragedy
-end 

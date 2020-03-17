@@ -21,9 +21,8 @@ def bonus
   }
 
   #code your solution here:
-
-  
-
-  #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
-  epic_tragedy
+  def epic_tragedy
+  puts    [:montague][:hero][:satus] = "dead",
+  puts    [:capulet][:heroine][:satus] = "dead
 end
+ epic_tragedy

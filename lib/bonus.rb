@@ -22,7 +22,8 @@ def bonus
 
   #code your solution here:
   def epic_tragedy
-  puts    [:montague][:hero][:satus] = "dead",
-  puts    [:capulet][:heroine][:satus] = "dead
+    do  [:montague][:hero][:satus] = "dead",
+     [:capulet][:heroine][:satus] = "dead
 end
  epic_tragedy
+end 
